@@ -47,8 +47,8 @@ This project analyzes HR data from Salifort Motors to uncover key drivers of emp
   - Lower salary level
 
 - **Best Model**: Random Forest Classifier  
-  - **Accuracy**: ~99%  
-  - **ROC-AUC Score**: 0.99  
+  - **Precision**: ~99%  
+  - **ROC-AUC Score**: 0.9785 
 
 - **Recommendations**:
   - Enhance employee satisfaction initiatives  
