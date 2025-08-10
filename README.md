@@ -54,7 +54,10 @@ This project analyzes HR data from Salifort Motors to uncover key drivers of emp
   - Enhance employee satisfaction initiatives  
   - Monitor and balance workloads  
   - Improve promotion and compensation structures  
-
+  
+  
+  **Major Issue** 
+  - Since the recall and accuracy is much higher than industry standards the model is prone to overfit and cannot generalise well for the data it hasn't seen 
 ---
 
 
